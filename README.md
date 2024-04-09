@@ -10,7 +10,7 @@
     You're on a mission to make coding your daily habit. Just like a good cup of coffee, practice makes perfect! Pledge to level up 1% each day alongside the Scaler Discord Community 
     <br/>
     <br/>
-    <a href="https://www.scaler.com/event/30-days-of-node-js/?utm_source=email&utm_medium=email&utm_campaign=discord"><strong>Explore the docs »</strong></a>
+    <a href="https://www.scaler.com/event/30-days-of-arrays-linked-lists/"><strong>Register Here »</strong></a>
     <br/>
     <br/>
     <a href="https://www.scaler.com/event/30-days-of-arrays-linked-lists/">View Demo</a>
